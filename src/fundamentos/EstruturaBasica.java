@@ -1,4 +1,5 @@
-public class Estrutura1 {
+
+public class EstruturaBasica {
     
    public static void main(String[] args) {
        

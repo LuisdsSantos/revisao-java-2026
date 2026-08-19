@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Interacao {
+public class EntradaDeDados {
     
    public static void main(String[] args) {
     
