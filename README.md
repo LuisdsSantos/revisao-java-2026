@@ -106,7 +106,7 @@ O arquivo `.vscode/settings.json` define `src` como a raiz do código-fonte:
 Com essa configuração, as pastas correspondem aos pacotes:
 
 | Pasta | Declaração do pacote |
-|---|---|
+| --- | --- |
 | `src/fundamentos` | `package fundamentos;` |
 | `src/controle` | `package controle;` |
 
@@ -143,7 +143,7 @@ Este projeto utiliza [Conventional Commits](https://www.conventionalcommits.org/
 Tipos mais utilizados:
 
 | Tipo | Uso |
-|---|---|
+| --- | --- |
 | `feat` | Adição de um novo exemplo ou conteúdo |
 | `fix` | Correção de um problema no código |
 | `docs` | Alteração na documentação |
