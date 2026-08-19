@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class Concatenacao {
     public static void main(String[] args) {
         
