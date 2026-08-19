@@ -1,4 +1,5 @@
-public class Mensagem {
+
+public class OlaMundo {
     public static void main(String[] args) {
         //Exibir Mensagem
         System.out.println("Olá, mundo");

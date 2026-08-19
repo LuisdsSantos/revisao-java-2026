@@ -1,3 +1,4 @@
+
 public class OperadoresLogicos {
     
     public static void main(String[] args) {
@@ -5,8 +6,8 @@ public class OperadoresLogicos {
         String formaPagamento = "a vista";
         double valor = 200;        
 
-        System.out.println(formaPagamento == "a vista" && valor >= 100);
-        System.out.println(formaPagamento == "a prazo" || valor >= 100);
+        System.out.println(formaPagamento.equals("a vista") && valor >= 100);
+        System.out.println(formaPagamento.equals("a prazo") || valor >= 100);
 
           boolean a = true;
 
